@@ -1,28 +1,23 @@
 const testimonio = [
   {
-    name: "UNRECOVERY",
+    name: "Kevin Gabriel Rodriguez",
     photoUrl:
-      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/311862320_5560422697381841_4394730905241878985_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH6jVFdv-hunNFhRpTjEXcnKydkBavCad8rJ2QFq8Jp37MZX2SrWKnwgqUpMW9yZxbATcPVhayXCEUAfc_4Br6n&_nc_ohc=rRADeEc0cQMAX9Gk9i4&_nc_ht=scontent.fvsa3-1.fna&oh=00_AT9ZN4bWj0EI3ug3foPrMsnM79hHboly-YJmWrNNapIglQ&oe=634F35D9",
+      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/326576314_3527382187506577_7170234514544723272_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEi2LmYCYS7VIVRINpTUCzI4qin9dM6LeTiqKf10zot5CRjBRROjnA_n4QhFDysjSQB8LoJ73jrTCN_SW1h4TGc&_nc_ohc=BipcnLIOuJMAX_xqskS&_nc_ht=scontent.fvsa3-1.fna&oh=00_AfDdpP2b8BhuhJ2yxGKhnnQtUISKOSCN4N1Hm7t_p8-Tjg&oe=63D436FE",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam amet sint ipsam, consectetur exercitationem velit quod beatae recusandae adipisci, id neque dicta necessitatibus soluta, laudantium alias sapiente libero tempora facilis?.",
   },
   {
-    name: "Boyka",
+    name: "Antonio Olivares Lopez",
     photoUrl:
-      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/306834192_1513752522386965_655899514963334996_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFTT1uFQOI-Qtc_auOianW6NrgLbr8l-qo2uAtuvyX6qjrNw84GS1rLcFygv2wwrOipmeoHhTaxkupUpTWNhTl-&_nc_ohc=_0rSVKFqrM0AX8Vl_Io&_nc_ht=scontent.fvsa3-1.fna&oh=00_AT_z3Q0GEHXvIZKV0aCzS6DFUrt81LPeARsvPCridWvkcA&oe=634E6368",
+      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/300346590_5402735603122180_5314634653162439486_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF9G8K4BYLmUzVFYI0IWXS2mRGTRXovIXSZEZNFei8hdIbvQmB0kTGwYVWQ4EHsgPm-u-fC1LuC_lx02ChA2_gO&_nc_ohc=3yGtitrqAKAAX8Sgzoc&_nc_ht=scontent.fvsa3-1.fna&oh=00_AfB9G7GFKS1kkFGPGKGno4PZ9WuiXbY47uzvP9FOfemW8g&oe=63D4DD99",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam amet sint ipsam, consectetur exercitationem velit quod beatae recusandae adipisci, id neque dicta necessitatibus soluta, laudantium alias sapiente libero tempora facilis?.",
   },
   {
-    name: "Danger",
+    name: "Zury Sadai Cardona",
     photoUrl:
-      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t1.6435-9/60795662_1545059828962842_1863815618038333440_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGu0SMCmNpO5iteN3_EfBu24ob1XV2NA0bihvVdXY0DRqddeZ-QDWtqWVDj3V55CUujHgEZ5jZCnMhU70aoz_oT&_nc_ohc=ogof6VVstDAAX-hTC6z&_nc_ht=scontent.fvsa3-1.fna&oh=00_AT8EdDKzW1n3Ac6UUpuLVXxpsQ5NDKTY3LlNp3UtUzqi3g&oe=63704BC2",
+      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/322378667_1329843844259977_108572744361866741_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFEshLHILEhx4_jplnJoO04B6M6AhacPJMHozoCFpw8k4nUwcT6Y4Ds54pgpKhiqnQX9ik01lSnGKdsdTQprUwZ&_nc_ohc=uP0z5C1dxdQAX-raLCY&_nc_oc=AQmDU_ol5NlrEXwZB4jYRQ9aNKaMBX-Cu-lY5JeJQ9bFrw-BwxHShEVRvDPNSeMzYQBeTE86Fzdnqbnkye5__Ysg&_nc_ht=scontent.fvsa3-1.fna&oh=00_AfDijUYbtd7HLyC7TSMJrM-iBaCqJAti1Hk1gIKIOC2c3A&oe=63D3D043",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam amet sint ipsam, consectetur exercitationem velit quod beatae recusandae adipisci, id neque dicta necessitatibus soluta, laudantium alias sapiente libero tempora facilis?.",
   },
-  {
-    name: "Dystopia",
-    photoUrl:
-      "https://scontent.fvsa3-1.fna.fbcdn.net/v/t39.30808-6/306388654_8813908381968531_1484678057073683557_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFI2dlp4XKmobr219-Up6zPOp7mP7xsPEU6nuY_vGw8RdBPxrQvmGxkxdRitXxzZhSFJUfGGlDvPsAo8gkWzwR7&_nc_ohc=s-JEbKNUrIwAX_Nuuul&_nc_ht=scontent.fvsa3-1.fna&oh=00_AT_UG9KaRnwhWr5vRxUjOS9qWST2HBinH6Vts8HCiRWyaQ&oe=634F32EE",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam amet sint ipsam, consectetur exercitationem velit quod beatae recusandae adipisci, id neque dicta necessitatibus soluta, laudantium alias sapiente libero tempora facilis?.",
-  },
+ 
 ];
 
 const imgEl = document.querySelector("img");
